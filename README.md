@@ -1,3 +1,9 @@
+Afbeeldingen van de test resultaten zijn te vinden in "Test Results".
+In de map notebook vind je de notebooks die gebruikt zijn voor training en processing.
+
+De hele dataset is te groot om te uploaden naar git ivm de .LIF files die tot 300 mb kunnen zijn, ik probeer deze naar Lamia te sturen via Teams.
+
+
 | Week | Logboeknotities |
 |------|-----------------|
 | 9 | Start gemaakt met het bekijken van de microscopie-afbeeldingen op de netwerkdrive. Gewoon even alles doorklikken en een gevoel krijgen voor wat voor data er is. Veel .lif-bestanden. Geen analyse gedaan, puur verkennen. |
