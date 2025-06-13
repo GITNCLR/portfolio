@@ -4,7 +4,9 @@ In de map notebook vind je de notebooks die gebruikt zijn voor training en proce
 De hele dataset is te groot om te uploaden naar git ivm de .LIF files die tot 300 mb kunnen zijn, ik probeer deze naar Lamia te sturen via Teams.
 
 GUI Git: https://github.com/CureQ/Microscopy/tree/Cell_Body_Detection
+
 Video van GUI: https://www.youtube.com/watch?v=UjFdjlDkNUg
+
 Finetune Dataset: https://www.icloud.com/iclouddrive/031E6f9jb5l3sEZvYtfE4w5RQ#Finetune_Dataset
 
 | Week | Logboeknotities |
